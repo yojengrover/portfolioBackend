@@ -15,9 +15,9 @@
   "author": "yojen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yojengrover/portfolio/issues"
+    "url": "https://github.com/yojengrover/portfolioBackend/issues"
   },
-  "homepage": "https://github.com/yojengrover/portfolio#readme",
+  "homepage": "https://github.com/yojengrover/portfolioBackend#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
