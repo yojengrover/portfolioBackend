@@ -1,0 +1,27 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev":"nodemon server",
+    "start": "node server",
+    "build":"npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yojengrover/portfolioBackend.git"
+  },
+  "author": "yojen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yojengrover/portfolio/issues"
+  },
+  "homepage": "https://github.com/yojengrover/portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4"
+  }
+}
